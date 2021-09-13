@@ -1,2 +1,2 @@
 # ETG
-JSON Based Inventory Managaemnt
+JSON Based Inventory Managament
